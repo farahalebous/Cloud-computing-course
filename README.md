@@ -8,4 +8,4 @@ i am using this Repository to learn more about GitHub
 *three
 
 ### Gist 
-this is an example of [my code] (https://gist.github.com/farahalebous/47c6281a2a428b979e9066bc62b1cf80)
+this is an example of [my code](https://gist.github.com/farahalebous/47c6281a2a428b979e9066bc62b1cf80)
